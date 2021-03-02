@@ -1,0 +1,13 @@
+Cafe
+
+is_open (boolean)
+menu (array)
+has_chairs (boolean)
+days_open (array)
+name (string)
+
+
+is_closed (modifies the is_open attribute)
+new_food_item (adds to the list of foods in the menu attribute)
+holiday_season (updates days_open attribute)
+new_name (updates the name attribute)
