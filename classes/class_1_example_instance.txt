@@ -1,0 +1,12 @@
+RunAwayCafe
+
+is_open = true
+menu = ["Chicken Sandwitch", "Noodle Soup", "Fruit Bowl", "Yogurt Parfait"]
+has_chairs = true
+days_open = ["Monday", "tuesday", "Wednesday", "Thursday", "Friday","Saturday", "Sunday"]
+manager = "Pete Anderson"
+
+is_closed: is_open = false
+new_food_item: menu = ["Chicken Sandwitch", "Noodle Soup", "Fruit Bowl", "Yogurt Parfait", "Oatmeal"]
+holiday_season: days_open = ["Monday", "tuesday", "Wednesday", "Thursday"]
+new_manager: manager = "Lilian Gale"
