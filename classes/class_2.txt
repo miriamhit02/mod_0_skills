@@ -1,0 +1,13 @@
+GiftShop
+
+manager (string)
+closed_sunday (boolean)
+stuffed_animals (array)
+gift_catagory (array)
+hours_open (integer)
+
+
+Open_everyday (updates closed_sunday attribute)
+sold_out_stuffed_animals (updates stuffed_animals attribute)
+new_store_hours (changes the hours_open attribute)
+new_gift_catagory (adds a catagory to the gift_catagory attribute)
