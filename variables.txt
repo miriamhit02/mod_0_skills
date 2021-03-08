@@ -1,11 +1,11 @@
-var movie = "Pride and Prejudice"
-var is_entertaining = true
-var movie = "Holes"
-var num_4 = 4
-var num_6 = 6
+movie = "Pride and Prejudice"
+is_entertaining = true
+movie = "Holes"
+num_4 = 4
+num_6 = 6
 num_6 * num_4
-var product = 24
-var favorite_foods = ["Burger", "Pizza", "Pasta"]
+product = 24
+favorite_foods = ["Burger", "Pizza", "Pasta"]
 
 favorite_foods.drop(0)
 
